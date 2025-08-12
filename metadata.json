@@ -1,0 +1,12 @@
+{
+  "name": "LunaPaw",
+  "symbol": "LPAW",
+  "description": "From Paw to the Moon",
+  "image": "https://raw.githubusercontent.com/kilaltaha/LunaPaw-Assets/main/IMG_3947.jpeg",
+  "extensions": {
+    "website": "https://your-website.com",
+    "twitter": "https://twitter.com/yourproject",
+    "telegram": "https://t.me/yourproject"
+  },
+  "tags": ["solana", "community", "meme"]
+}
